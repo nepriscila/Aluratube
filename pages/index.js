@@ -44,7 +44,7 @@ const StyledHeader = styled.div`
         img {
             width: 80px;
             height: 80px;
-            border-radius: 80%;
+            border-radius: 50%;
         }
         .user-info {
             margin-top: 50px;
@@ -58,7 +58,7 @@ const StyledHeader = styled.div`
 function Header() {
     return (
         <StyledHeader>
-            {/*<img src="banner" />*/}
+            {/* <img src="banner" />*/}
 
             <section className="user-info">
                 <img src={`https://github.com/${config.github}.png`} />
@@ -80,7 +80,7 @@ function Timeline(props) {
     const playlistNames = Object.keys(props.playlists);
     return (
         <StyledTimeline>
-            {playlistNames.map(function (playlistName) {
+            {playlistNames.map((playlistName) => {
                 const videos = props.playlists[playlistName];
                 console.log(playlistName);
                 console.log(videos);
