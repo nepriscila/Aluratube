@@ -1,0 +1,41 @@
+{
+    "name": "Neyléia Priscila",
+    "job": "Developer",
+    "github": "nepriscila",
+    "playlists": {
+        "Astronomia": [
+            {
+                "title": "Top 5 descobertas da astronomia",
+                "url": "https://www.youtube.com/watch?v=fCAPuPYrPt4",
+                "thumb": "https://img.youtube.com/vi/fCAPuPYrPt4/hqdefault.jpg"
+            },
+            {
+                "title": "Sandman e Astronomia",
+                "url": "https://www.youtube.com/watch?v=TR8F5UaBKY8",
+                "thumb": "https://img.youtube.com/vi/TR8F5UaBKY8/hqdefault.jpg"
+            },
+            {
+                "title": "Pulsar e os pequenos homens verdes",
+                "url": "https://www.youtube.com/watch?v=w4kVzojGAf8",
+                "thumb": "https://img.youtube.com/vi/w4kVzojGAf8/hqdefault.jpg"
+            }
+        ],
+        "Front-end": [
+            {
+                "title": "O que é React JS?",
+                "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa",
+                "thumb": "https://img.youtube.com/vi/6IuQUgeDPg0/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Angular e AngularJS?",
+                "url": "https://www.youtube.com/watch?v=LFlNU30u7d8",
+                "thumb": "https://img.youtube.com/vi/LFlNU30u7d8/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Node JS?",
+                "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w",
+                "thumb": "https://img.youtube.com/vi/GKR6uSvEj8w/hqdefault.jpg"
+            }
+        ]
+    }
+}
