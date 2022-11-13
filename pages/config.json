@@ -36,6 +36,18 @@
                 "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w",
                 "thumb": "https://img.youtube.com/vi/GKR6uSvEj8w/hqdefault.jpg"
             }
+        ],
+        "Aluratubes Favorites": [
+            {
+                "title": "@omariosouto",
+                "url": "https://www.youtube.com/c/DevSoutinho",
+                "thumb": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj"
+            },
+            {
+                "title": "O que é React JS?",
+                "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa",
+                "thumb": "https://img.youtube.com/vi/6IuQUgeDPg0/hqdefault.jpg"
+            }
         ]
     }
 }
